@@ -17,3 +17,7 @@ This project shows the use of jenkins as build automation and continous integrat
   - Installed npm and node in Jenkins container
   - Useful Links:
       - Node Installation for Linux distributions: https://github.com/nodesource/distributions
+      - Jenkins Plugins: https://plugins.jenkins.io/
+  ### Jenkins Basics Demo
+  - Configured Git Repository to checkout the code from
+  - Configured Job to run tests and build Java Application
