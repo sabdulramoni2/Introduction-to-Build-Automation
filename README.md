@@ -12,4 +12,8 @@ This project shows the use of jenkins as build automation and continous integrat
 - Started Jenkins Docker container with named volume
 - Initialized Jenkins
 
-  
+  ### Install Build Tools
+  - Configured Plugin for Maven
+  - Installed npm and node in Jenkins container
+  - Useful Links:
+  -- Node Installation for Linux distributions: https://github.com/nodesource/distributions
