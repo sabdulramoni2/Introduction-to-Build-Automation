@@ -66,6 +66,7 @@ This project shows the use of jenkins as build automation and continous integrat
     ![image](https://github.com/user-attachments/assets/c700ccea-fbe2-446d-a8e4-241508f7e4f0)
 
   - Configured Job to run tests and build Java Application
+    
     ![image](https://github.com/user-attachments/assets/2a6cecb5-d23e-4448-9cf0-e2e78a8d4e84)
 
     ![image](https://github.com/user-attachments/assets/bc9e5e19-5db1-4c33-8896-bfcfca994645)
