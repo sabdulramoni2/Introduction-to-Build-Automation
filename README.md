@@ -62,5 +62,21 @@ This project shows the use of jenkins as build automation and continous integrat
       - Node Installation for Linux distributions: https://github.com/nodesource/distributions
       - Jenkins Plugins: https://plugins.jenkins.io/
 ### Jenkins Basics Demo
-  - Configured Git Repository to checkout the code from
+  - Configured Git Repository to checkout the code
+    ![image](https://github.com/user-attachments/assets/c700ccea-fbe2-446d-a8e4-241508f7e4f0)
+
   - Configured Job to run tests and build Java Application
+    ![image](https://github.com/user-attachments/assets/2a6cecb5-d23e-4448-9cf0-e2e78a8d4e84)
+
+    ![image](https://github.com/user-attachments/assets/bc9e5e19-5db1-4c33-8896-bfcfca994645)
+
+    ![image](https://github.com/user-attachments/assets/45a78a39-7a5b-4cb2-ad9e-916aa194cb34)
+
+    ![image](https://github.com/user-attachments/assets/74ed997a-637b-4d41-b4f3-65bc9d3bfc98)
+
+    ![image](https://github.com/user-attachments/assets/2a93e3e6-4dee-4fdb-921a-7d4fa8bddb7a)
+
+
+
+
+
