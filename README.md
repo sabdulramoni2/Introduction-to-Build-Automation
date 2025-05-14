@@ -16,4 +16,4 @@ This project shows the use of jenkins as build automation and continous integrat
   - Configured Plugin for Maven
   - Installed npm and node in Jenkins container
   - Useful Links:
-  -- Node Installation for Linux distributions: https://github.com/nodesource/distributions
+   -- Node Installation for Linux distributions: https://github.com/nodesource/distributions
